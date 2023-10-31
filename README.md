@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahilm25
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Mathematics with Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with students 
 - 📫 How to reach me, sahil.sm10.sm@gmail.com
 
 <!---
